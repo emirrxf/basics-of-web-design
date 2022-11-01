@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <body background="https://wallpapers.com/images/hd/white-textured-paper-439vozmsl9bybc8a-439vozmsl9bybc8a.jpg"> 
+
+
+<center>
+    <h1> İş Başvuru Formu </h1> <br/>
+        <table  width="500" height="100" border="5">
+            <tr>
+    
+    <td> 
+        <center> 
+            <h4> 
+                <font color="red">Palm Coffe Co</font> 
+            </h4> 
+        </center>
+         
+        
+İsminiz: <input type="text"></td>
+    <td> Cinsiyetiniz <br/> 
+        <input type="radio" name="Cinsiyetiniz" value="Erkek" /> Erkek <br/>
+            <input type="radio" name="Cinsiyetiniz" value="Kadın" /> Kadın <br/></td> <br/>
+    
+
+            <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvGU9XdpkDzyJkst22j2eiDiPRok_ztYogPvSvShuSQ&s" alt=""> </td>
+         </tr>
+    </table> 
+<br/>
+
+
+
+  
+    Geçmiş Deneyimleriniz <br/>
+        <textarea name="Adres" cols="40" rows="5"></textarea> 
+            <br/>
+                <br/>
+
+    
+
+    Yapabildiğiniz Ürünler
+    <br/>
+        <input type="checkbox" name="hobileriniz[]" value="motorsiklet"/> Espressolu Kahve Çeşitleri <br/>
+            <input type="checkbox" name="hobileriniz[]" value="kitap"/> Soğuk Kokteyl Ürünleri <br/>
+                <input type="checkbox" name="hobileriniz[]" value="film"/> Basit İçecekler <br/>
+
+                    <br/>
+
+    Hangi Şubemiz İçin Başvuruyorsunuz? <br/>
+
+    <select name="sehir">
+            <option value="1">Seçiniz</option>
+            <option value="43">Eskişehir Palm Coffe</option>
+            <option value="26">Ankara Palm Coffe</option>
+            <option value="34">İstanbul Avrupa Palm</option>
+            <option value="31">İstanbul Asya Palm</option>
+            <option value="37">İzmir Palm Coffe</option>
+            <option value="39">Bursa Palm Coffe</option>
+            <option value="30">Hatay Palm Coffe</option>
+
+	
+
+
+</center>
+</body>
+</html>
